@@ -4,7 +4,7 @@ import tools.blocks.constants.MeasurementDeviceConstants;
 import tools.blocks.filter.RssiFilter;
 
 /**
- * Created by floyd on 29.08.16.
+ * Created by fgroch on 29.08.16.
  */
 public interface Beacon {
     double getDistance();
