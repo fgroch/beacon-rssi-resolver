@@ -1,1 +1,3 @@
 # beacon-rssi-resolver
+
+Java library to simplify RSSI (Received Signal Strength Indication) and distance calculations. Originally design to use with Raspberry Pi but can be used on every java enabled device. Includes Kalman filter implementation and Raspberry Pi embedded antenna constants. Additional devices could be supported by implementing MeasurementDeviceConstants interface. Additional filters could be supported by implementing RssiFilter interface.
